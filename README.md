@@ -2,6 +2,10 @@
 
 Afficher une liste de photos sélectionnable d'un clic de souris, avec un message indiquant le nombre de photos sélectionnées à chaque instant.
 
+## Screen
+
+![alt tag](https://github.com/rebiichokriJS/JS---S-lecteur-de-Photos/blob/master/MOCKUP.png)
+
 ## Consignes
 
 ### HTML
